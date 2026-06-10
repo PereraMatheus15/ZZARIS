@@ -1,1 +1,792 @@
-[]
+[
+  {
+    "timestamp": "2026-06-10T03:17:28.599819Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:17:28.599819Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:18:02.641744Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:18:34.948712Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:19:09.026611Z",
+    "level": "INFO",
+    "message": "Recebido prompt: olã"
+  },
+  {
+    "timestamp": "2026-06-10T03:19:21.924332Z",
+    "level": "INFO",
+    "message": "Recebido prompt: oi"
+  },
+  {
+    "timestamp": "2026-06-10T03:20:43.591498Z",
+    "level": "INFO",
+    "message": "Recebido prompt: predict"
+  },
+  {
+    "timestamp": "2026-06-10T03:21:01.251082Z",
+    "level": "INFO",
+    "message": "Recebido prompt: predict"
+  },
+  {
+    "timestamp": "2026-06-10T03:21:06.695313Z",
+    "level": "INFO",
+    "message": "Recebido prompt: test"
+  },
+  {
+    "timestamp": "2026-06-10T03:21:13.333614Z",
+    "level": "INFO",
+    "message": "Recebido prompt: infer"
+  },
+  {
+    "timestamp": "2026-06-10T03:21:18.833587Z",
+    "level": "INFO",
+    "message": "Recebido prompt: run"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.296678Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.311793Z",
+    "level": "INFO",
+    "message": "Recebido prompt: meu nome é Matheus"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.321250Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.331155Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.342957Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual é meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.351880Z",
+    "level": "INFO",
+    "message": "Recebido prompt: quem sou eu"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.366921Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.380405Z",
+    "level": "INFO",
+    "message": "Recebido prompt: eu moro em Batatais"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.388563Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: cidade"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.396564Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: cidade"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.408616Z",
+    "level": "INFO",
+    "message": "Recebido prompt: onde eu moro"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.425476Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.445319Z",
+    "level": "INFO",
+    "message": "Recebido prompt: meu projeto é ZZARIS"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.450209Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: projeto"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.459782Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: projeto"
+  },
+  {
+    "timestamp": "2026-06-10T03:25:09.474993Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual é meu projeto"
+  },
+  {
+    "timestamp": "2026-06-10T03:30:29.542193Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:30:43.278324Z",
+    "level": "INFO",
+    "message": "Recebido prompt: meu nome é matheus"
+  },
+  {
+    "timestamp": "2026-06-10T03:30:43.290459Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:30:43.301708Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:30:52.715536Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:31:02.179136Z",
+    "level": "INFO",
+    "message": "Recebido prompt: zzaris> qual é meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:31:26.505390Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:31:31.441674Z",
+    "level": "INFO",
+    "message": "Recebido prompt: zzaris> qual é meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:32:33.492114Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:32:33.510044Z",
+    "level": "INFO",
+    "message": "Recebido prompt: meu nome é matheus"
+  },
+  {
+    "timestamp": "2026-06-10T03:32:33.526260Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:32:33.540708Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:32:33.557741Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual meu nome "
+  },
+  {
+    "timestamp": "2026-06-10T03:32:33.576254Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual é meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.773199Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.796081Z",
+    "level": "INFO",
+    "message": "Recebido prompt: meu nome é Matheus"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.825436Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.838596Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.850032Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual é meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.873403Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.881845Z",
+    "level": "INFO",
+    "message": "Recebido prompt: quem sou eu"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.913581Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.913581Z",
+    "level": "INFO",
+    "message": "Recebido prompt: eu moro em Batatais"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.946757Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: cidade"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.958783Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: cidade"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.977943Z",
+    "level": "INFO",
+    "message": "Recebido prompt: onde eu moro"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:06.999452Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:07.015759Z",
+    "level": "INFO",
+    "message": "Recebido prompt: meu projeto é ZZARIS"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:07.034848Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: projeto"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:07.048254Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: projeto"
+  },
+  {
+    "timestamp": "2026-06-10T03:33:07.069789Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual é meu projeto"
+  },
+  {
+    "timestamp": "2026-06-10T03:34:19.091589Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:35:20.114136Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:35:28.048475Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:35:35.479703Z",
+    "level": "INFO",
+    "message": "Recebido prompt: info"
+  },
+  {
+    "timestamp": "2026-06-10T03:39:19.789301Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:39:29.083170Z",
+    "level": "INFO",
+    "message": "Recebido prompt: quem sou eu"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.545891Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.562742Z",
+    "level": "INFO",
+    "message": "Recebido prompt: meu nome é Matheus"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.579175Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.598537Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.621395Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual é meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.647483Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.666676Z",
+    "level": "INFO",
+    "message": "Recebido prompt: quem sou eu"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.702247Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.723356Z",
+    "level": "INFO",
+    "message": "Recebido prompt: eu moro em Batatais"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.766819Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: cidade"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.797529Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: cidade"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.818659Z",
+    "level": "INFO",
+    "message": "Recebido prompt: onde eu moro"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.851656Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.869951Z",
+    "level": "INFO",
+    "message": "Recebido prompt: meu projeto é ZZARIS"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.899596Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: projeto"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.919755Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: projeto"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.931729Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual é meu projeto"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.948003Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.965218Z",
+    "level": "INFO",
+    "message": "Recebido prompt: o que é python"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:27.999055Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:28.015624Z",
+    "level": "INFO",
+    "message": "Recebido prompt: explique python"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:28.032484Z",
+    "level": "INFO",
+    "message": "[KNOWLEDGE MATCH] Prompt: explique python Match: o que é python"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:28.060614Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:28.079570Z",
+    "level": "INFO",
+    "message": "Recebido prompt: o que é quasar"
+  },
+  {
+    "timestamp": "2026-06-10T03:45:28.096252Z",
+    "level": "INFO",
+    "message": "[KNOWLEDGE MATCH] Prompt: o que é quasar Match: o que é esp32"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:23.673303Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:23.703731Z",
+    "level": "INFO",
+    "message": "Recebido prompt: o que é quasar"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:23.726634Z",
+    "level": "INFO",
+    "message": "[KNOWLEDGE MATCH] Prompt: o que é quasar Match: o que é esp32"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:23.747910Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual é a cor do céu"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:23.765509Z",
+    "level": "INFO",
+    "message": "[KNOWLEDGE MATCH] Prompt: qual é a cor do céu Match: qual é sua versão"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:23.782370Z",
+    "level": "INFO",
+    "message": "Recebido prompt: quantas galáxias existem"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:23.804667Z",
+    "level": "INFO",
+    "message": "Recebido prompt: me fale de fotos"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:23.821243Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual é a sua idade"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:23.836428Z",
+    "level": "INFO",
+    "message": "[KNOWLEDGE MATCH] Prompt: qual é a sua idade Match: qual é sua versão"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:23.851413Z",
+    "level": "INFO",
+    "message": "Recebido prompt: como refatorar"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:23.869806Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual é a cor do livro"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:23.884571Z",
+    "level": "INFO",
+    "message": "[KNOWLEDGE MATCH] Prompt: qual é a cor do livro Match: qual é sua versão"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:39.709087Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:39.728964Z",
+    "level": "INFO",
+    "message": "Recebido prompt: meu nome é Matheus"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:39.751035Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:39.778975Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:39.797900Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual é meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:39.828544Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:39.840302Z",
+    "level": "INFO",
+    "message": "Recebido prompt: quem sou eu"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:39.885321Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:39.914719Z",
+    "level": "INFO",
+    "message": "Recebido prompt: eu moro em Batatais"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:39.945018Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: cidade"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:39.963078Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: cidade"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:39.984777Z",
+    "level": "INFO",
+    "message": "Recebido prompt: onde eu moro"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:40.008104Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:40.025380Z",
+    "level": "INFO",
+    "message": "Recebido prompt: meu projeto é ZZARIS"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:40.044377Z",
+    "level": "DEBUG",
+    "message": "Memória de longo prazo armazenada: projeto"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:40.068231Z",
+    "level": "INFO",
+    "message": "Aprendido novo fato: projeto"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:40.077040Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual é meu projeto"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:40.111864Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:40.144762Z",
+    "level": "INFO",
+    "message": "Recebido prompt: o que é python"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:40.162450Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:40.182588Z",
+    "level": "INFO",
+    "message": "Recebido prompt: explique python"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:40.208046Z",
+    "level": "INFO",
+    "message": "[KNOWLEDGE MATCH] Prompt: explique python Match: o que é python"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:40.227411Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T03:46:40.244006Z",
+    "level": "INFO",
+    "message": "Recebido prompt: quantas galáxias existem"
+  },
+  {
+    "timestamp": "2026-06-10T04:07:23.224534Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T04:07:26.233716Z",
+    "level": "INFO",
+    "message": "Recebido prompt: ola"
+  },
+  {
+    "timestamp": "2026-06-10T04:07:26.453250Z",
+    "level": "INFO",
+    "message": "Recebido prompt: empty"
+  },
+  {
+    "timestamp": "2026-06-10T04:07:30.278219Z",
+    "level": "INFO",
+    "message": "Recebido prompt: oi"
+  },
+  {
+    "timestamp": "2026-06-10T04:09:36.903968Z",
+    "level": "INFO",
+    "message": "Recebido prompt: qual meu nome"
+  },
+  {
+    "timestamp": "2026-06-10T04:09:45.617994Z",
+    "level": "INFO",
+    "message": "Recebido prompt: quem pe voce"
+  },
+  {
+    "timestamp": "2026-06-10T04:09:55.173775Z",
+    "level": "INFO",
+    "message": "Recebido prompt: quem é voce"
+  },
+  {
+    "timestamp": "2026-06-10T04:23:01.170637Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T04:27:36.676401Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T04:28:11.077415Z",
+    "level": "DEBUG",
+    "message": "Memória de curto prazo atualizada: last_topic"
+  },
+  {
+    "timestamp": "2026-06-10T04:28:34.808792Z",
+    "level": "DEBUG",
+    "message": "Memória de curto prazo atualizada: last_topic"
+  },
+  {
+    "timestamp": "2026-06-10T04:45:33.783204Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:13.395706Z",
+    "level": "INFO",
+    "message": "Plugin carregado com sucesso: [Relógio Interno]"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:13.429343Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:13.662623Z",
+    "level": "INFO",
+    "message": "Plugin carregado com sucesso: [Relógio Interno]"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:13.678389Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:13.720817Z",
+    "level": "INFO",
+    "message": "Plugin carregado com sucesso: [Relógio Interno]"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:13.742324Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:13.793658Z",
+    "level": "INFO",
+    "message": "Plugin carregado com sucesso: [Relógio Interno]"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:13.827144Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:13.855581Z",
+    "level": "DEBUG",
+    "message": "Memória de curto prazo atualizada: last_topic"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:13.912569Z",
+    "level": "INFO",
+    "message": "Plugin carregado com sucesso: [Relógio Interno]"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:13.937473Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:13.961101Z",
+    "level": "DEBUG",
+    "message": "Memória de curto prazo atualizada: last_topic"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:14.010157Z",
+    "level": "INFO",
+    "message": "Plugin carregado com sucesso: [Relógio Interno]"
+  },
+  {
+    "timestamp": "2026-06-10T15:05:14.042569Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T15:06:11.732249Z",
+    "level": "INFO",
+    "message": "Plugin carregado com sucesso: [Relógio Interno]"
+  },
+  {
+    "timestamp": "2026-06-10T15:06:11.743350Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T15:12:52.391701Z",
+    "level": "INFO",
+    "message": "Plugin carregado com sucesso: [Relógio Interno]"
+  },
+  {
+    "timestamp": "2026-06-10T15:12:52.417651Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  },
+  {
+    "timestamp": "2026-06-10T15:13:05.039044Z",
+    "level": "DEBUG",
+    "message": "Prompt interceptado pelo plugin: Relógio Interno (Confiança: 1.0)"
+  },
+  {
+    "timestamp": "2026-06-10T15:32:50.939707Z",
+    "level": "INFO",
+    "message": "Plugin carregado com sucesso: [Relógio Interno]"
+  },
+  {
+    "timestamp": "2026-06-10T15:32:50.959877Z",
+    "level": "INFO",
+    "message": "ZZARIS Brain iniciado v0.1"
+  }
+]

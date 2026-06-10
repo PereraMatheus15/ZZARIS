@@ -1,8 +1,8 @@
 """Treinador supervisionado simples para o ZZARIS."""
 from typing import List
 
-from ..core.network import NeuralNetwork
-from ..memory.storage import save_json
+from core.network import NeuralNetwork
+from memory.storage import save_json
 
 
 class Trainer:
@@ -12,7 +12,8 @@ class Trainer:
         self.network = network
         self.examples = examples
 
-    def train(self, epochs: int = 1000, learning_rate: float = 0.5) -> None:
+    # ALTERAÇÃO: Épocas aumentadas para 10000 e taxa de aprendizado reduzida para 0.1
+    def train(self, epochs: int = 10000, learning_rate: float = 0.1) -> None:
         """Treina a rede neural usando exemplos rotulados."""
         self.network.train(self.examples, epochs, learning_rate)
 

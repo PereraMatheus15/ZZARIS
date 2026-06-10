@@ -1,7 +1,7 @@
 """Memória persistente do ZZARIS baseada em armazenamento JSON."""
 from typing import Any
 
-from .storage import save_json
+from memory.storage import save_json
 
 
 class LongTermMemory:

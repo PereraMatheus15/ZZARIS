@@ -1,9 +1,9 @@
 """Console interativo simples para o ZZARIS."""
-from ..core.brain import Brain
-from ..training.dataset import load_examples
-from ..training.trainer import Trainer
-from ..config import EXAMPLES_FILE, MEMORY_FILE
-from .commands import CommandParser
+from core.brain import Brain
+from training.dataset import load_examples
+from training.trainer import Trainer
+from config import EXAMPLES_FILE, MEMORY_FILE
+from interface.commands import CommandParser
 
 
 class ConsoleInterface:

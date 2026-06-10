@@ -1,5 +1,40 @@
+
 {
-  "olá": "Olá! Eu sou o ZZARIS, sua inteligência artificial modular.",
-  "como você está?": "Estou pronto para aprender e expandir minhas capacidades.",
-  "qual é o seu nome?": "Eu sou ZZARIS, Zero Zone Artificial Reasoning and Intelligence System."
+  "python": {
+    "keywords": [
+      "python",
+      "linguagem python",
+      "programação python",
+      "o que é python"
+    ],
+    "response": "Python é uma linguagem de programação de alto nível."
+  },
+
+  "zzaris": {
+    "keywords": [
+      "zzaris",
+      "quem é você",
+      "qual seu nome",
+      "o que é zzaris"
+    ],
+    "response": "Sou ZZARIS, Zero Zone Artificial Reasoning and Intelligence System."
+  },
+
+  "rede neural": {
+    "keywords": [
+      "rede neural",
+      "neurônios artificiais",
+      "neural network"
+    ],
+    "response": "Uma rede neural é um modelo computacional inspirado no cérebro humano."
+  },
+
+  "github": {
+    "keywords": [
+      "github",
+      "git",
+      "repositório"
+    ],
+    "response": "GitHub é uma plataforma de hospedagem e versionamento de código."
+  }
 }

@@ -1,9 +1,9 @@
 """Implementação de rede neural multicamada simples."""
 from typing import Callable
 
-from .activation import resolve_activation
-from .neuron import Neuron
-from .learning import mean_squared_error
+from core.activation import resolve_activation
+from core.neuron import Neuron
+from core.learning import mean_squared_error
 
 
 class NeuralNetwork:
